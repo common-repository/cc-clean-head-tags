@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cc-clean-head-tags\n"
+"POT-Creation-Date: 2017-01-23 16:35+0100\n"
+"PO-Revision-Date: 2017-01-23 16:35+0100\n"
+"Last-Translator: Piotr Niewiadomski <p.niewiadomski@clearcode.cc>\n"
+"Language-Team: Clearcode | Piotr Niewiadomski <p.niewiadomski@clearcode.cc>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: framework/plugin.php:125
+msgid "Author"
+msgstr "Autor"
+
+#: framework/singleton.php:30 framework/singleton.php:33
+#: framework/singleton.php:37
+msgid "Cheatin&#8217; uh?"
+msgstr "Oszukujemy, co?"
+
+#~ msgid "Wrong response code"
+#~ msgstr "Błędny kod odpowiedzi serwera"
+
+#~ msgid "Error"
+#~ msgstr "Błąd"
+
+#~ msgid "Class"
+#~ msgstr "Klasa"
+
+#~ msgid "Function"
+#~ msgstr "Funkcja"
+
+#~ msgid "Settings"
+#~ msgstr "Ustawienia"
+
+#~ msgid "Dir: %s does not exists!"
+#~ msgstr "Folder: %s nie istnieje!"
+
+#~ msgid "Dir: %s is not readable!"
+#~ msgstr "Folder: %s nie posiada uprawnień do odczytu!"
+
+#~ msgid "Dir: %s is not writable!"
+#~ msgstr "Folder: %s nie posiada uprawnień do zapisu!"
+
+#~ msgid "Server not supports URL rewriting."
+#~ msgstr "Serwer nie obsługuje przepisywania adresów."
+
+#~ msgid "Minify Settings"
+#~ msgstr "Ustawienia minifikowania"
+
+#~ msgid "Minify"
+#~ msgstr "Minifikowanie"
+
+#~ msgid "Add the following rules at the beginning of this file"
+#~ msgstr "Dodaj poniższe reguły na początku tego pliku"
+
+#~ msgid "Styles"
+#~ msgstr "Style"
+
+#~ msgid "Scripts"
+#~ msgstr "Skrypty"
+
+#~ msgid "To exclude"
+#~ msgstr "Aby wykluczyć"
+
+#~ msgid "use filter"
+#~ msgstr "użyj filtra"
+
+#~ msgid "Rewrite"
+#~ msgstr "Przepisz"
+
+#~ msgid "to"
+#~ msgstr "na"
+
+#~ msgid "To change"
+#~ msgstr "Aby zmienić"
+
+#~ msgid "url"
+#~ msgstr "adres"
+
+#~ msgid "Clear"
+#~ msgstr "Wyczyść"
+
+#~ msgid "dir"
+#~ msgstr "katalog"
+
+#~ msgid "Popup"
+#~ msgstr "Wyskakujące okienko"
+
+#~ msgid "Select"
+#~ msgstr "Wybierz"
+
+#~ msgid "Post Types"
+#~ msgstr "Typy Wpisów"
+
+#~ msgid "Deleted"
+#~ msgstr "Usunięty"
+
+#~ msgid "Password protected"
+#~ msgstr "Zabezpieczony hasłem"
+
+#~ msgid "Included"
+#~ msgstr "Dołączony"
+
+#~ msgid "Popups"
+#~ msgstr "Wyskakujące okienka"
